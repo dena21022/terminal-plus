@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/jeremyramin/terminal-plus)
+
 ## Author's Note
 * Please make sure you are on the [latest version of Atom](https://atom.io/releases) before reporting bugs!
 * This package requires that you have the dependencies for node-gyp.  
